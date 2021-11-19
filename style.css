@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+}
+.heading{
+    height: 75px;
+    width: 100%;
+    text-align: center;
+    background-color: lightblue;
+    align-content: center;
+    margin: 0px;
+    padding: 5px;
+}
+div{
+    width: 600px;
+    height: 180px;
+    text-align: center;
+    margin: 0px;
+    display: flex;
+    float:none;
+    align-items: center;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+span{
+    text-align: center;
+    align-content: center;
+}
+a{
+    font-size: 25px;
+    color: white;
+}
